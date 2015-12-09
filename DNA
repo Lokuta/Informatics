@@ -1,0 +1,5 @@
+s=input()
+print(s.count('A'))
+print(s.count('C'))
+print(s.count('G'))
+print(s.count('T'))
